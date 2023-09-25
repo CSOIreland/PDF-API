@@ -1,0 +1,7 @@
+/.svn
+/.vs
+/PDFapi.Test
+/PDFapi/Resources/Config/*.github
+/PDFapi/bin
+/PDFapi/obj
+/PDFapi/Driver

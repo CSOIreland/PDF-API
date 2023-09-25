@@ -1,0 +1,53 @@
+﻿{
+  "bulkcopy-tranche-multiplier": 10,
+  "px": {
+    "confidential-value": "..",
+    "default-units": "-"
+  },
+  "analytic": {
+    "read-os-item-limit": 10,
+    "read-browser-item-limit": 10,
+    "read-referrer-item-limit": 100,
+    "referrer-not-applicable": "n/a",
+    "read-environment-language-limit": 100
+  },
+  "search": {
+    "synonym-multiplier": 1,
+    "search-word-multiplier": 15,
+    "release_word_multiplier": 1,
+    "product_word_multiplier": 10,
+    "subject_word_multiplier": 100
+  },
+  "language": {
+    "iso": {
+      "code": "en",
+      "name": "English"
+    }
+  },
+  "domain": "domain.tld",
+  "chromeCommandLineOptions": [
+    "headless",
+    "disable-gpu",
+    "run-all-compositor-stages-before-draw"
+  ],
+  "printOptions": {
+    "landscape": false,
+    "displayHeaderFooter": false,
+    "printBackground": false,
+    "scale": 1.0,
+    "paperWidth": 11.7,
+    "paperHeight": 16.5,
+    "marginTop": 0.4,
+    "marginBottom": 0.4,
+    "marginLeft": 0.4,
+    "marginRight": 0.4,
+    "pageRanges": "",
+    "ignoreInvalidPageRanges": false,
+    "headerTemplate": "",
+    "footerTemplate": "",
+    "preferCSSPageSize": false,
+    "windowWidth": 1280,
+    "windowHeight": 1024
+  },
+  "returnType": "base64String"
+}
