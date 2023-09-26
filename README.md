@@ -7,6 +7,6 @@ It specifically uses the chromeDriver version of the WebDriver to do the convers
 This simply uses the chromeDriver print functionality, to convert the html page, to be saved as a pdf. This is similiar to pressing the Alt-P on a html page in Chrome 
 and selecting Save as PDF as the Destination.
 
-The API can use the full list of Chrome command line options (see https://peter.sh/experiments/chromium-command-line-switches). It also can use the full list of print options (see https://chromedevtools.github.io/devtools-protocol/tot/Page/#method-printToPDF) as parameters to the API.
+The API can use the Chrome command line options (see https://peter.sh/experiments/chromium-command-line-switches). It also can use the Chrome print options (see https://chromedevtools.github.io/devtools-protocol/tot/Page/#method-printToPDF). Both options can be used as parameters to the API.
 
 For more specific details of the API(see https://github.com/CSOIreland/PDF-API/wiki/API).
